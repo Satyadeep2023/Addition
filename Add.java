@@ -3,7 +3,7 @@ public class Add {
     // two integer variables with values
     // and a variable "sum" to store the result
 
-    int num1 = 150, num2 = 150,sum;
+    int num1 = 200, num2 = 150,sum;
    
 
 
